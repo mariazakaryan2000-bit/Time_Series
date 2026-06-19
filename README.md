@@ -1,2 +1,2 @@
 # Time_Series
-This model investigates the impact of external financial flows and exchange rate fluctuations on Armenia's banking sector performance and broader economic activity.
+The objective of this econometric model is to analyze the macroeconomic impact of external financial flows and exchange rate dynamics on the Armenian banking system and economic performance. The research focuses on assessing the sensitivity of the banking sector to external shocks and understanding how currency fluctuations modulate credit supply and financial intermediation, ultimately driving or constraining economic growth in Armenia.
